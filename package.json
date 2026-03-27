@@ -1,0 +1,27 @@
+{
+  "name": "chat-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushroomgead/chat-shared.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mushroomgead/chat-shared/issues"
+  },
+  "homepage": "https://github.com/mushroomgead/chat-shared#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  },
+  "files": [
+    "dist"
+  ]
+}
